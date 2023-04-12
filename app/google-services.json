@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "698999204876",
+    "project_id": "memodiary-382312",
+    "storage_bucket": "memodiary-382312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698999204876:android:9f679885d3490e051d9229",
+        "android_client_info": {
+          "package_name": "com.natra.memodiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698999204876-978h73cvbeln3ncq4gbfh48l2lm6kvvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJa9-tT536GSKYDwI-id3ChHjlnK_giqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698999204876-978h73cvbeln3ncq4gbfh48l2lm6kvvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
